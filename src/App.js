@@ -4,6 +4,7 @@ import CryptoCurrencies from './components/CryptoCurrencies';
 import CryptoDetails from './components/CryptoDetails';
 import Homepage from './components/Homepage';
 import News from './components/News';
+
 function App() {
   return (
      <Routes>

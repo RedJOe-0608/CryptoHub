@@ -1,0 +1,4 @@
+.searchBarOptions::-webkit-scrollbar{
+    display: none;
+
+}
